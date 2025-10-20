@@ -1,7 +1,7 @@
 {
   "name": "CarrotHero Token List",
   "logoURI": "https://raw.githubusercontent.com/RI10/carrothero-tokenlist/main/v111.png",
-  "keywords": ["carrothero", "crrx", "base"],
+  "keywords": ["carrothero", "crrx", "base", "meme"],
   "timestamp": "2025-10-20T00:00:00Z",
   "tokens": [
     {
@@ -12,12 +12,13 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/RI10/carrothero-tokenlist/main/v111.png",
       "website": "https://carrothero.xyz",
-      "twitter": "https://x.com/Carrothero_xyz"
+      "twitter": "https://x.com/Carrothero_xyz",
+      "description": "Carrero ($CRRX) — meme token from the Carrot Hero multiverse, bridging 3D NFTs, storytelling, and Web3 culture on Base."
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   }
 }
