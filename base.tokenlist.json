@@ -1,0 +1,23 @@
+{
+  "name": "CarrotHero Token List",
+  "logoURI": "https://raw.githubusercontent.com/RI10/carrothero-tokenlist/main/v111.png",
+  "keywords": ["carrothero", "crrx", "base"],
+  "timestamp": "2025-10-20T00:00:00Z",
+  "tokens": [
+    {
+      "chainId": 8453,
+      "address": "0x271eB17040aE44A3487065976Dc46898CbCBcc5D",
+      "name": "Carrero",
+      "symbol": "CRRX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/RI10/carrothero-tokenlist/main/v111.png",
+      "website": "https://carrothero.xyz",
+      "twitter": "https://x.com/Carrothero_xyz"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
